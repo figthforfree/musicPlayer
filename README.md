@@ -1,5 +1,5 @@
 ## 音乐播放器 
-[预览地址](https://figthforfree.github.io/musicPlayer/index.html)
+[预览地址](http://js.jirengu.com/voqazijuqi)
 ## 前言
     这是个人使用原生JS打造的一个音乐播放器插件。在这过程中学会了webpack的配置，以及之前所学的一些回顾。
 ### 项目路径
